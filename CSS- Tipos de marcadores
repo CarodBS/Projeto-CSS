@@ -1,0 +1,11 @@
+H1{
+    font-family: sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: red;
+}
+UL {
+    font-family: Arial;
+    font-size: 12pt;
+    list-style-type: lower-alpha;
+}

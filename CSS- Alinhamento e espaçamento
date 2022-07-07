@@ -1,0 +1,6 @@
+p {
+    font-family: Arial;
+    font-size: 12pt;
+    letter-spacing: 0.5em;
+    text-align: justify;
+}
